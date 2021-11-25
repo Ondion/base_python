@@ -1,2 +1,0 @@
-msn = int()
-print(msn)
