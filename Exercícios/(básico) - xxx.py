@@ -1,0 +1,2 @@
+msn = int()
+print(msn)
