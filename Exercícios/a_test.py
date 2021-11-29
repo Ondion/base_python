@@ -1,3 +1,3 @@
 import math
 
-print("string"*5)
+print("string x PI -"*int(math.pi))
